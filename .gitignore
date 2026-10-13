@@ -1,0 +1,6 @@
+# SWI-Prolog compiled files and editor/OS artifacts
+*.qlf
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
